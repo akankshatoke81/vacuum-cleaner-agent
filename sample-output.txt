@@ -1,0 +1,6 @@
+Vacuum cleaned room a.
+Vacuum moved from room a to room b.
+Vacuum moved from room b to room c.
+Vacuum cleaned room c.
+All rooms are clean. 
+true.
